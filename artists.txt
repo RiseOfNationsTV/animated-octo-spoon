@@ -1,3 +1,4 @@
 Michael Jackson,
 Elvis Presley,
-The Beatles
+The Beatles,
+The Beach Boys
