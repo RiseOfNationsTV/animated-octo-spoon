@@ -1,2 +1,3 @@
 Michael Jackson,
-Elvis Presley
+Elvis Presley,
+The Beatles
